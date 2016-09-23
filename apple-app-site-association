@@ -1,0 +1,14 @@
+{
+  "activitycontinuation": {
+    "apps": [
+      "8QVCRZKDBY.au.com.appliquette.bray-accounting"
+    ]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [{
+        "appID": "8QVCRZKDBY.au.com.appliquette.bray-accounting",
+        "paths": ["/ios/au.com.appliquette.bray-accounting/*"]
+      }]
+  }
+}
